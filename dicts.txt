@@ -1,0 +1,99 @@
+Percentage: 1.0% Query: ['chatgpt4', 'GAI', 'Chat-Gpt', 'Chatbot', 'gemeni', 'Higher education', 'college', 'instructor', 'assessment', 'edtech', 'cheating', 'plagiarism', 'Teaching', 'Online learning', 'Teachers', 'Distance education', 'courses', 'schools', 'assignment', 'educators', 'Classroom', 'professor']
+
+Percentage: 0.875% Query: ['Chatbot', 'gemeni', 'Chat-Gpt', 'magic school', 'magicschool', 'Artificial Intelligence', 'assessment', 'lesson', 'personalized learning', 'lesson plans', 'Academia', 'Online learning', 'schools', 'instructor', 'Distance education', 'Teaching', 'Higher education', 'k-12 education', 'cheating']
+
+Percentage: 0.8571428571428571% Query: ['GenAI', 'Open-AI', 'gemeni', 'chatgpt4', 'Generative AI', 'Artificial Intelligence', 'Classroom', 'Distance education', 'lesson plans', 'quiz', 'academic', 'college', 'student', 'instructor', 'personalized learning', 'cheating', 'Online learning', 'Teaching tools', 'k-12 education', 'Teachers', 'educators', 'Higher education']
+
+Percentage: 0.8333333333333334% Query: ['gemeni', 'chatgpt4', 'magic school', 'Open-AI', 'k-8 education', 'student', 'Education', 'lesson', 'academic', 'assignment', 'research', 'lesson plans', 'Classroom', 'Teach', 'personalized learning', 'plagiarism', 'test', 'cheating', 'professor', 'Teachers', 'college', 'Higher education', 'Teaching tools']
+
+Percentage: 0.8333333333333334% Query: ['chatgpt4', 'magic school', 'magicschool', 'Open-AI', 'Chat-Gpt', 'gemeni', 'Chatbot', 'educators', 'quiz', 'plagiarism', 'assessment', 'cheating', 'courses', 'Online learning', 'Higher education', 'lesson plans', 'student', 'Distance education', 'academic', 'k-12 education']
+
+Percentage: 0.8333333333333334% Query: ['Generative AI', 'magic school', 'Chatbot', 'GAI', 'Artificial Intelligence', 'Chat-Gpt', 'assessment', 'personalized learning', 'educators', 'Higher education', 'plagiarism', 'Online learning', 'Teach', 'Academia', 'academic', 'instructor', 'lesson', 'early childhood education', 'schools', 'college', 'edtech', 'Distance education', 'k-12 education', 'lesson plans', 'assignment']
+
+Percentage: 0.8235294117647058% Query: ['Chat-Gpt', 'Artificial Intelligence', 'Open-AI', 'chatgpt4', 'assignment', 'plagiarism', 'schools', 'personalized learning', 'Teaching tools', 'student', 'cheating', 'college', 'quiz', 'Teachers', 'lesson', 'professor', 'Teaching', 'Distance education']
+
+Percentage: 0.8181818181818182% Query: ['chatgpt4', 'GAI', 'gemeni', 'Chat-Gpt', 'research', 'Online learning', 'educators', 'professor', 'cheating', 'Teaching tools', 'personalized learning', 'courses', 'academic', 'edtech', 'Teaching', 'assignment', 'quiz', 'k-12 education', 'Higher education', 'assessment', 'Distance education', 'Teach', 'Academia', 'instructor', 'schools', 'lesson']
+
+Percentage: 0.8181818181818182% Query: ['Open-AI', 'GAI', 'Chat-Gpt', 'Chatbot', 'Artificial Intelligence', 'early childhood education', 'Academia', 'educators', 'Teachers', 'student', 'k-12 education', 'Teaching tools', 'schools', 'Distance education', 'k-8 education', 'research', 'college', 'Teaching', 'cheating']
+
+Percentage: 0.8181818181818182% Query: ['Chat-Gpt', 'Generative AI', 'Open-AI', 'gemeni', 'GAI', 'magicschool', 'magic school', 'Classroom', 'lesson plans', 'research', 'educators', 'Online learning', 'Teaching', 'schools', 'cheating', 'k-12 education', 'plagiarism', 'early childhood education', 'k-8 education', 'Education', 'quiz', 'Higher education', 'assignment', 'academic']
+
+Percentage: 0.8181818181818182% Query: ['GenAI', 'chatgpt4', 'Generative AI', 'Chat-Gpt', 'gemeni', 'Artificial Intelligence', 'Teachers', 'quiz', 'professor', 'schools', 'personalized learning', 'lesson', 'educators', 'assignment', 'Academia', 'Teaching tools', 'lesson plans', 'Higher education', 'early childhood education', 'college']
+
+Percentage: 0.8157894736842105% Query: ['Artificial Intelligence', 'Open-AI', 'Chat-Gpt', 'magicschool', 'magic school', 'Generative AI', 'academic', 'edtech', 'Teach', 'Academia', 'personalized learning', 'k-8 education', 'assessment', 'college', 'student', 'Teaching', 'assignment', 'schools', 'lesson plans', 'plagiarism', 'Distance education', 'cheating']
+
+Percentage: 0.8125% Query: ['GAI', 'Chatbot', 'gemeni', 'magic school', 'Artificial Intelligence', 'plagiarism', 'Teach', 'instructor', 'personalized learning', 'Online learning', 'academic', 'assignment', 'Teaching tools', 'early childhood education', 'college', 'research', 'Teaching', 'assessment', 'Academia', 'Classroom', 'Distance education', 'lesson plans', 'k-8 education']
+
+Percentage: 0.8095238095238095% Query: ['Artificial Intelligence', 'Chat-Gpt', 'GenAI', 'gemeni', 'Open-AI', 'magic school', 'Generative AI', 'academic', 'k-8 education', 'assessment', 'k-12 education', 'college', 'edtech', 'plagiarism', 'personalized learning', 'student', 'Teaching', 'lesson plans', 'Teachers', 'cheating', 'early childhood education', 'Distance education']
+
+Percentage: 0.8068181818181818% Query: ['Artificial Intelligence', 'Generative AI', 'magicschool', 'magic school', 'gemeni', 'GAI', 'academic', 'cheating', 'Distance education', 'assignment', 'educators', 'Online learning', 'k-12 education', 'college', 'edtech', 'Teaching tools', 'lesson plans', 'professor', 'research', 'Teach']
+
+Percentage: 0.8037383177570093% Query: ['Chatbot', 'GAI', 'chatgpt4', 'Chat-Gpt', 'Artificial Intelligence', 'Generative AI', 'magic school', 'professor', 'cheating', 'educators', 'Teachers', 'edtech', 'lesson', 'Higher education', 'Teaching tools', 'research', 'k-12 education', 'student', 'early childhood education', 'personalized learning']
+
+Percentage: 0.801980198019802% Query: ['gemeni', 'magic school', 'Chatbot', 'GAI', 'chatgpt4', 'Open-AI', 'Artificial Intelligence', 'magicschool', 'Generative AI', 'Teachers', 'educators', 'cheating', 'lesson', 'edtech', 'academic', 'Teaching', 'Classroom', 'k-8 education', 'plagiarism', 'schools', 'Online learning', 'research', 'k-12 education', 'assignment']
+
+Percentage: 0.8% Query: ['gemeni', 'Chatbot', 'GAI', 'chatgpt4', 'Open-AI', 'k-12 education', 'Teach', 'schools', 'college', 'assignment', 'early childhood education', 'Education', 'plagiarism', 'instructor', 'Higher education', 'Teaching tools', 'student', 'cheating', 'Teaching', 'Academia', 'Classroom', 'Distance education', 'academic']
+
+Percentage: 0.7962962962962963% Query: ['Open-AI', 'Chat-Gpt', 'Chatbot', 'magicschool', 'Artificial Intelligence', 'chatgpt4', 'gemeni', 'Teaching tools', 'Classroom', 'early childhood education', 'personalized learning', 'k-12 education', 'research', 'k-8 education', 'plagiarism', 'lesson plans', 'Academia', 'academic']
+
+Percentage: 0.7931034482758621% Query: ['Chat-Gpt', 'magic school', 'Open-AI', 'GAI', 'chatgpt4', 'magicschool', 'gemeni', 'Chatbot', 'edtech', 'professor', 'educators', 'Higher education', 'plagiarism', 'quiz', 'Teaching', 'student', 'k-8 education', 'assignment', 'research', 'schools', 'academic', 'Distance education', 'early childhood education', 'instructor', 'Classroom', 'k-12 education']
+
+Percentage: 0.7913043478260869% Query: ['gemeni', 'chatgpt4', 'Artificial Intelligence', 'Chatbot', 'Generative AI', 'GAI', 'educators', 'personalized learning', 'Teach', 'Online learning', 'quiz', 'Teaching tools', 'schools', 'research', 'Teaching', 'assignment', 'professor', 'edtech', 'Distance education', 'college', 'lesson', 'Academia', 'plagiarism', 'assessment', 'student']
+
+Percentage: 0.7894736842105263% Query: ['Chat-Gpt', 'Open-AI', 'Chatbot', 'gemeni', 'GenAI', 'Artificial Intelligence', 'chatgpt4', 'Academia', 'college', 'professor', 'educators', 'edtech', 'assignment', 'Teach', 'schools', 'Teachers', 'instructor', 'Higher education', 'Classroom', 'early childhood education', 'student', 'academic', 'Teaching', 'lesson plans']
+
+Percentage: 0.7894736842105263% Query: ['magic school', 'gemeni', 'GAI', 'Chat-Gpt', 'Chatbot', 'early childhood education', 'cheating', 'student', 'research', 'instructor', 'lesson plans', 'Teaching', 'professor', 'Classroom', 'k-12 education', 'academic']
+
+Percentage: 0.7875% Query: ['gemeni', 'Generative AI', 'Chat-Gpt', 'GAI', 'magic school', 'magicschool', 'Artificial Intelligence', 'personalized learning', 'plagiarism', 'Distance education', 'academic', 'educators', 'Teaching', 'Teachers', 'Higher education', 'k-12 education', 'assessment', 'edtech', 'cheating', 'research']
+
+Percentage: 0.7857142857142857% Query: ['Chat-Gpt', 'Generative AI', 'gemeni', 'magic school', 'Chatbot', 'magicschool', 'chatgpt4', 'Open-AI', 'lesson plans', 'Education', 'Online learning', 'k-8 education', 'educators', 'academic', 'Higher education', 'Teach', 'Teaching', 'college', 'Teachers']       
+
+Percentage: 0.7857142857142857% Query: ['magicschool', 'GAI', 'Generative AI', 'Chat-Gpt', 'magic school', 'academic', 'assignment', 'early childhood education', 'personalized learning', 'lesson', 'Teaching tools', 'professor', 'lesson plans', 'college', 'edtech', 'k-12 education', 'student', 'Classroom', 'Education', 'instructor']
+
+Percentage: 0.782608695652174% Query: ['GAI', 'Generative AI', 'chatgpt4', 'GenAI', 'Artificial Intelligence', 'magic school', 'college', 'educators', 'assessment', 'student', 'Teaching tools', 'quiz', 'lesson', 'research', 'k-12 education', 'Teach', 'Teaching', 'Distance education', 'cheating']        
+
+Percentage: 0.78125% Query: ['gemeni', 'Chat-Gpt', 'GAI', 'chatgpt4', 'Open-AI', 'GenAI', 'Artificial Intelligence', 'Academia', 'lesson', 'Teach', 'Classroom', 'educators', 'Teachers', 'student', 'Distance education', 'k-8 education', 'Online learning', 'Higher education', 'personalized learning', 'assessment']
+
+Percentage: 0.7777777777777778% Query: ['Artificial Intelligence', 'Open-AI', 'magicschool', 'Chatbot', 'Academia', 'academic', 'Distance education', 'lesson plans', 'plagiarism', 'college', 'early childhood education', 'lesson', 'research', 'Teaching tools', 'k-8 education', 'cheating', 'Online learning', 'quiz', 'Teachers', 'Classroom', 'Teach']
+
+Percentage: 0.7777777777777778% Query: ['Open-AI', 'Chatbot', 'gemeni', 'Generative AI', 'GAI', 'Artificial Intelligence', 'student', 'personalized learning', 'early childhood education', 'k-12 education', 'Academia', 'Classroom', 'quiz', 'k-8 education', 'Teach', 'assignment', 'Teachers', 'lesson plans', 'academic', 'Distance education', 'research', 'lesson', 'Higher education']
+
+Percentage: 0.7777777777777778% Query: ['GAI', 'magicschool', 'Chat-Gpt', 'Chatbot', 'Generative AI', 'Open-AI', 'gemeni', 'lesson', 'schools', 'academic', 'assignment', 'educators', 'personalized learning', 'Teaching', 'early childhood education', 'cheating', 'student', 'Education', 'Teach', 'Online learning', 'Teaching tools', 'Classroom']
+
+Percentage: 0.7777777777777778% Query: ['Chatbot', 'gemeni', 'Chat-Gpt', 'GAI', 'GenAI', 'Artificial Intelligence', 'student', 'educators', 'schools', 'assessment', 'quiz', 'Teaching', 'Online learning', 'instructor', 'Academia', 'lesson', 'plagiarism', 'personalized learning', 'edtech', 'assignment', 'early childhood education', 'academic', 'Classroom', 'Teach', 'lesson plans']
+
+Percentage: 0.7761194029850746% Query: ['GAI', 'Chatbot', 'chatgpt4', 'Generative AI', 'magic school', 'Open-AI', 'edtech', 'personalized learning', 'assignment', 'Classroom', 'Higher education', 'plagiarism', 'cheating', 'academic', 'schools', 'Distance education', 'research', 'Teach', 'Teaching', 'lesson', 'k-8 education', 'test', 'college', 'Teaching tools']
+
+Percentage: 0.775% Query: ['GAI', 'magic school', 'Generative AI', 'gemeni', 'Chatbot', 'professor', 'Education', 'assessment', 'educators', 'schools', 'quiz', 'Teach', 'lesson', 'test', 'early childhood education', 'Teaching tools', 'instructor', 'assignment', 'personalized learning']
+
+Percentage: 0.7744360902255639% Query: ['GenAI', 'Chat-Gpt', 'Artificial Intelligence', 'AI', 'magicschool', 'lesson plans', 'Teach', 'early childhood education', 'quiz', 'instructor', 'Online learning', 'Distance education', 'student', 'educators', 'Classroom', 'k-8 education', 'Teaching tools']       
+
+Percentage: 0.7708333333333334% Query: ['Artificial Intelligence', 'magic school', 'magicschool', 'GenAI', 'Chat-Gpt', 'Open-AI', 'chatgpt4', 'Chatbot', 'research', 'assignment', 'instructor', 'college', 'Teachers', 'lesson', 'Distance education', 'Classroom', 'plagiarism', 'early childhood education', 'student', 'k-8 education', 'personalized learning', 'assessment', 'quiz', 'cheating', 'educators', 'k-12 education']
+
+Percentage: 0.7692307692307693% Query: ['GAI', 'Generative AI', 'Chatbot', 'chatgpt4', 'magic school', 'Artificial Intelligence', 'Open-AI', 'magicschool', 'academic', 'edtech', 'assessment', 'professor', 'instructor', 'Distance education', 'schools', 'college', 'assignment', 'k-12 education', 'early childhood education', 'k-8 education', 'Teaching']
+
+Percentage: 0.7692307692307693% Query: ['chatgpt4', 'gemeni', 'magicschool', 'Generative AI', 'Chat-Gpt', 'Distance education', 'Classroom', 'plagiarism', 'lesson plans', 'personalized learning', 'Academia', 'quiz', 'Education', 'schools', 'Teaching tools', 'lesson', 'early childhood education', 'student']
+
+Percentage: 0.7684210526315789% Query: ['Generative AI', 'magicschool', 'Chatbot', 'Artificial Intelligence', 'Chat-Gpt', 'college', 'professor', 'Higher education', 'instructor', 'Online learning', 'edtech', 'academic', 'research', 'Academia', 'early childhood education', 'Teach']
+
+Percentage: 0.7661290322580645% Query: ['gemeni', 'chatgpt4', 'Generative AI', 'Artificial Intelligence', 'GAI', 'Chat-Gpt', 'Classroom', 'lesson plans', 'instructor', 'Teaching', 'cheating', 'college', 'Education', 'research', 'academic', 'Teach', 'Distance education', 'Teaching tools', 'personalized learning', 'Online learning', 'assignment']
+
+Percentage: 0.7661290322580645% Query: ['Chatbot', 'Artificial Intelligence', 'GenAI', 'Generative AI', 'magic school', 'AI', 'magicschool', 'GAI', 'chatgpt4', 'assignment', 'early childhood education', 'Teaching', 'k-8 education', 'Teaching tools', 'student', 'instructor', 'lesson plans', 'schools', 'personalized learning', 'educators', 'college']
+
+Percentage: 0.7638888888888888% Query: ['Artificial Intelligence', 'gemeni', 'Chat-Gpt', 'Open-AI', 'GAI', 'chatgpt4', 'college', 'Classroom', 'Academia', 'edtech', 'educators', 'k-8 education', 'cheating', 'k-12 education', 'Teaching tools', 'plagiarism', 'lesson plans', 'Teaching', 'Online learning', 'research', 'assessment', 'personalized learning', 'assignment', 'professor', 'test', 'early childhood education', 'instructor']
+
+Percentage: 0.7631578947368421% Query: ['Open-AI', 'gemeni', 'GenAI', 'chatgpt4', 'Artificial Intelligence', 'GAI', 'magicschool', 'Academia', 'Teaching tools', 'Distance education', 'educators', 'quiz', 'plagiarism', 'instructor', 'personalized learning', 'Classroom', 'cheating', 'academic', 'research', 'professor']
+
+Percentage: 0.7625% Query: ['Chat-Gpt', 'Open-AI', 'magicschool', 'gemeni', 'Generative AI', 'Artificial Intelligence', 'Teach', 'k-12 education', 'assessment', 'schools', 'professor', 'college', 'lesson plans', 'plagiarism', 'early childhood education', 'k-8 education', 'Higher education', 'Distance education', 'research']
+
+Percentage: 0.7619047619047619% Query: ['Open-AI', 'Chat-Gpt', 'GenAI', 'Generative AI', 'gemeni', 'Artificial Intelligence', 'early childhood education', 'Classroom', 'k-12 education', 'assignment', 'assessment', 'Distance education', 'Academia', 'cheating', 'Teaching', 'personalized learning', 'k-8 education', 'research', 'student', 'instructor', 'Online learning', 'Teach', 'lesson plans', 'Teaching tools', 'Teachers']
+
+Percentage: 0.7619047619047619% Query: ['magic school', 'magicschool', 'Generative AI', 'Open-AI', 'gemeni', 'research', 'instructor', 'educators', 'student', 'Online learning', 'cheating', 'Education', 'Higher education', 'early childhood education', 'k-8 education', 'k-12 education', 'Teaching tools', 'lesson plans', 'academic', 'schools', 'edtech']
+
+Percentage: 0.7571428571428571% Query: ['Artificial Intelligence', 'Chat-Gpt', 'chatgpt4', 'Open-AI', 'GenAI', 'Chatbot', 'Generative AI', 'magic school', 'GAI', 'magicschool', 'Teach', 'educators', 'research', 'schools', 'early childhood education', 'personalized learning', 'Teaching', 'Teachers', 'assignment', 'Classroom', 'college', 'cheating', 'professor', 'Teaching tools', 'Academia', 'Higher education', 'edtech', 'Online learning']
+
+Percentage: 0.7553191489361702% Query: ['GAI', 'chatgpt4', 'Chatbot', 'magicschool', 'Open-AI', 'Artificial Intelligence', 'GenAI', 'quiz', 'Higher education', 'Teachers', 'k-12 education', 'cheating', 'plagiarism', 'educators', 'Distance education', 'Online learning', 'Classroom', 'academic', 'early childhood education', 'research', 'college', 'Academia']
+
+Percentage: 0.7543859649122807% Query: ['Artificial Intelligence', 'magicschool', 'chatgpt4', 'magic school', 'Generative AI', 'Chat-Gpt', 'k-8 education', 'k-12 education', 'Online learning', 'quiz', 'Teachers', 'instructor', 'test', 'lesson', 'Classroom', 'Teach', 'educators', 'Higher education', 'edtech', 'Academia', 'Teaching tools', 'college', 'schools', 'Teaching']
+
+Percentage: 0.7540983606557377% Query: ['Chatbot', 'chatgpt4', 'Generative AI', 'magic school', 'test', 'research', 'lesson', 'educators', 'Online learning', 'edtech', 'student', 'assignment', 'Teachers', 'professor', 'Teaching tools', 'Academia', 'lesson plans', 'Classroom', 'instructor', 'Teach', 'schools', 'early childhood education', 'assessment']
