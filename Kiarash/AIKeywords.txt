@@ -1,0 +1,204 @@
+Artificial Intelligence
+Chat-Gpt
+GPT
+GenAI 
+Generative AI
+gemeni 
+Open-AI 
+chatgpt4
+Chatbot 
+magicschool 
+AI 
+GAI 
+magic school
+Machine Learning
+Deep Learning
+Neural Networks
+Intelligent Systems
+Cognitive Computing
+Reinforcement Learning
+Supervised Learning
+Unsupervised Learning
+Semi-supervised Learning
+Transfer Learning
+Self-supervised Learning
+Meta-learning
+Predictive Modeling
+Computational Intelligence
+Swarm Intelligence
+Data Mining
+Knowledge Representation
+Decision Support Systems
+Support Vector Machines 
+SVM
+Random Forest
+Decision Trees
+k-Nearest Neighbors 
+k-NN
+Naive Bayes
+Gradient Boosting
+XGBoost
+LightGBM
+Adaboost
+Neural Networks
+Loss Functions
+Model Optimization
+Cross-validation
+Hyperparameter Tuning
+Feature Selection
+Overfitting
+Underfitting
+Confusion Matrix
+Convolutional Neural Networks 
+CNN
+Recurrent Neural Networks 
+RNN
+Long Short-Term Memory 
+LSTM
+Gated Recurrent Units 
+GRU
+Autoencoders
+Generative Adversarial Networks 
+GANs
+Transformers
+Attention Mechanism
+Self-Attention
+BERT 
+Bidirectional Encoder Representations from Transformers
+GPT 
+Generative Pre-trained 
+T5 
+Text-to-Text Transfer Transformer
+ViT 
+Vision Transformer
+ResNet
+MobileNet
+Neural Architecture Search 
+Neural Turing Machine 
+GPT-3
+GPT-4
+gpt4o
+gpt-4o
+gpt-o3
+gpt-o4
+DeepSeek
+Llama
+Qwen
+Siri
+Alexa
+Codex
+CLIP
+DistilBERT
+BART
+Gopher
+Chinchilla
+DeepSpeed
+DistilGPT
+DeBERTa 
+EleutherAI
+Open Pre-trained Transformer
+LaMDA
+XLNet
+ERNIE
+BLOOM
+Megatron
+Switch Transformer
+OpenAI
+ChatGPT
+Large Language Models (LLMs)
+Language Models
+Pretrained Models
+Fine-tuning
+Zero-shot Learning
+Few-shot Learning
+Prompt Engineering
+Text Generation
+Natural Language Understanding (NLU)
+Natural Language Generation (NLG)
+Contextual Embeddings
+BERT
+RoBERTa
+Turing NLG
+GPT-2
+Turing GPT
+Megatron
+EleutherAI
+LaMDA
+Generative Adversarial Networks (GANs)
+Deepfakes
+Image Synthesis
+Text-to-Image Models 
+DALL-E 
+MidJourney
+Text-to-Speech 
+Speech-to-Text 
+Video Generation
+Style Transfer
+Neural Style Transfer
+Image Captioning
+Text-to-Text Models
+BERT-based Generative Models
+Creative AI
+AI Art Generation
+AI Music Composition
+AI-generated Content
+AI-based Animation
+Synthetic Data Generation
+Natural Language Processing 
+NLP
+Named Entity Recognition 
+Part-of-Speech Tagging
+Sentiment Analysis
+Text Classification
+Text Summarization
+Language Modeling
+Dependency Parsing
+Speech Recognition
+Language Translation
+Language Detection
+Tokenization
+Lemmatization
+Stemming
+Word Embeddings
+Word2Vec
+GloVe 
+Global Vectors for Word Representation
+FastText
+Transformer Models
+Transformer Encoder
+Pre-trained Language Models
+Semantic Search
+Chatbots
+TensorFlow
+PyTorch
+Keras
+Hugging Face
+Scikit-learn
+OpenAI API
+DeepMind
+Nvidia CUDA
+SpaCy
+AllenNLP
+FastAPI
+Apache MXNet
+Microsoft Cognitive Toolkit 
+CNTK
+Theano
+Jupyter Notebooks
+Model Hub
+TensorFlow Hub
+PyTorch Hub
+OpenCV
+Hugging Face Transformers
+Hugging Face Datasets
+Streamlit
+Gradio
+Colab Notebooks
+Quantum Machine Learning
+Human-AI Interaction
+Autonomous Vehicles
+Multi-Agent Systems
+Multi Agent Systems
+Cognitive Neuroscience in AI
+Human-Machine Collaboration
+Human Machine Collaboration
